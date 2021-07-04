@@ -5,25 +5,27 @@ P.S. all code is written in WSL.
 
 
 
-#For Tesseract.py
-##Install python libraries using:
-
+# For Tesseract.py
+## Install python libraries using:
+```
 pip install pytesseract
 pip isntall opencv-python
-
-##Make sure to install tesseract-OCR as per your system:
+```
+## Make sure to install tesseract-OCR as per your system:
 https://tesseract-ocr.github.io/tessdoc/Home.html
 
 
-#For main.py
+# For main.py
 
-##Install python libraries using:
+## Install python libraries using:
+```
 pip install opencv-python
 pip install matplotlib
 pip install numpy
 pip install tqdm
+```
 
-##Make sure to install pytorch according to your system:
+## Make sure to install pytorch according to your system:
 https://pytorch.org/
 
 pip install easyocr
