@@ -23,9 +23,10 @@ pip install opencv-python
 pip install matplotlib
 pip install numpy
 pip install tqdm
+pip install easyocr
 ```
 
-## Make sure to install pytorch according to your system:
+#### Make sure to install pytorch according to your system:
 https://pytorch.org/
 
-pip install easyocr
+
