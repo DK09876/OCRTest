@@ -21,6 +21,7 @@ https://tesseract-ocr.github.io/tessdoc/Home.html
 pip install opencv-python
 pip install matplotlib
 pip install numpy
+pip install tqdm
 
 ##Make sure to install pytorch according to your system:
 https://pytorch.org/
